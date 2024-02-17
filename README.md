@@ -16,7 +16,7 @@ Features
 Installation
 To run GreenDen locally, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/greenden.git
+Clone the repository: https://github.com/stanly03/Greenden.tailwind/tree/main
 Navigate to the project directory: cd greenden
 Install dependencies: npm install
 Start the development server: npm start
